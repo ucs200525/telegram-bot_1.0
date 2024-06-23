@@ -1,0 +1,2 @@
+    opencage_api_key = '699522e909454a09b82d1c728fc79925'
+    bot_token  ='7274941037:AAHIWiU5yvfIzo7eJWPu9S5CeJIid6ATEyM'
